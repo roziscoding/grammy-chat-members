@@ -1,6 +1,6 @@
 {
   "name": "@grammyjs/chat-members",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Chat member plugin for grammY",
   "homepage": "https://grammy.dev/plugins/chat-members.html",
   "main": "./out/mod.js",
@@ -10,7 +10,7 @@
     "url": "git+https://https://github.com/grammyjs/chat-members.git"
   },
   "exports": {
-    ".": "./out/index.js"
+    ".": "./out/mod.js"
   },
   "files": [
     "out/"
